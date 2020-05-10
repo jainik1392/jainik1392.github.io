@@ -4,7 +4,7 @@
     detail: BlueYonder
     i18n: company_a
   desc:
-    detail: Built a demand segmentation model, created KPI reports for different supply chain metrics and visualized it using relevant visuals and designed data model with the appropriate relationship between tables \n Technologies":" Python, SQL, PowerBI, Postgre, MySQL
+    detail: Built a demand segmentation model, created KPI reports for different supply chain metrics and visualized it using relevant visuals and designed data model with the appropriate relationship between tables Technologies: Python, SQL, PowerBI, Postgre, MySQL
     i18n: company_a_desc
   date:
     detail: Jan 2020 - May 2020
