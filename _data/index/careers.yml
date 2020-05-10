@@ -4,7 +4,7 @@
     detail: BlueYonder
     i18n: company_a
   desc:
-    detail: Built a demand segmentation model using, created KPI reports for different supply chain metrics and visualized it using relevant visuals and designed data model with the appropriate relationship between tables(Technologies: Python, SQL, PowerBI + Postgre + MySQL)
+    detail: Built a demand segmentation model, created KPI reports for different supply chain metrics and visualized it using relevant visuals and designed data model with the appropriate relationship between tables(Technologies: Python, SQL, PowerBI + Postgre + MySQL)
     i18n: company_a_desc
   date:
     detail: Jan 2020 - May 2020
@@ -14,17 +14,3 @@
     i18n: company_a_job
   icon: fa-plus-square
   present: true
-
-- name:
-    detail: Company B
-    i18n: company_b
-  desc:
-    detail: I worked at Company B ...
-    i18n: company_b_desc
-  date:
-    detail: Jun. 2015
-    i18n: company_b_date
-  job:
-    detail: Full Stack Developer
-    i18n: company_b_job
-  icon: fa-plus-square
