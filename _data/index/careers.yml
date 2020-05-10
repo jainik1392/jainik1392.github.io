@@ -14,3 +14,63 @@
     i18n: company_a_job
   icon: fa-plus-square
   present: true
+  
+- name:
+    detail: Best Buy
+    i18n: company_a
+  desc:
+    detail: Built product propensity models to determine the likelihood customer buying different BestBuy products and look alike models to identify people who look and act like target audiences to reach greater/new audiences Technologies":" Python, SQL, SAS, SAS Enterprise Guide, SAS Enterprise Miner
+    i18n: company_a_desc
+  date:
+    detail: June 2019 - 2019
+    i18n: company_a_date
+  job:
+    detail: Data Science Intern
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: true
+  
+- name:
+    detail: University of Texas at Dallas (UTD)
+    i18n: company_a
+  desc:
+    detail: Built product propensity models to determine the likelihood customer buying different BestBuy products and look alike models to identify people who look and act like target audiences to reach greater/new audiences Technologies":" Python, SQL, SAS, SAS Enterprise Guide, SAS Enterprise Miner
+    i18n: company_a_desc
+  date:
+    detail: Aug 2018 - May 2020
+    i18n: company_a_date
+  job:
+    detail: Graduate Student
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: true
+
+- name:
+    detail: Principal Financial Group(PFG)
+    i18n: company_a
+  desc:
+    detail: Built product propensity models to determine the likelihood customer buying different BestBuy products and look alike models to identify people who look and act like target audiences to reach greater/new audiences Technologies":" Python, SQL, SAS, SAS Enterprise Guide, SAS Enterprise Miner
+    i18n: company_a_desc
+  date:
+    detail: Dec 2016 - July 2018
+    i18n: company_a_date
+  job:
+    detail: Database Analyst
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: true
+  
+  - name:
+    detail: Tech Mahindra Ltd.
+    i18n: company_a
+  desc:
+    detail: Built product propensity models to determine the likelihood customer buying different BestBuy products and look alike models to identify people who look and act like target audiences to reach greater/new audiences Technologies":" Python, SQL, SAS, SAS Enterprise Guide, SAS Enterprise Miner
+    i18n: company_a_desc
+  date:
+    detail: Sept 2013 - Nov 2016
+    i18n: company_a_date
+  job:
+    detail: Database Administrator
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: true
