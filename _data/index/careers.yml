@@ -4,7 +4,7 @@
     detail: BlueYonder
     i18n: company_a
   desc:
-    detail: Built a demand segmentation model, created KPI reports for different supply chain metrics and visualized it using relevant visuals and designed data model with the appropriate relationship between tables Technologies":" Python, SQL, PowerBI, Postgre, MySQL
+    detail: Built a demand segmentation model, created KPI reports for different supply chain metrics and visualized it using relevant visuals and designed data model with the appropriate relationship between tables 
     i18n: company_a_desc
   date:
     detail: Jan 2020 - May 2020
@@ -19,7 +19,7 @@
     detail: Best Buy
     i18n: company_a
   desc:
-    detail: Built product propensity models to determine the likelihood customer buying different BestBuy products and look alike models to identify people who look and act like target audiences to reach greater/new audiences Technologies":" Python, SQL, SAS, SAS Enterprise Guide, SAS Enterprise Miner
+    detail: Built product propensity models to determine the likelihood customer buying different BestBuy products and look alike models to identify people who look and act like target audiences to reach greater/new audiences 
     i18n: company_a_desc
   date:
     detail: June 2019 - 2019
@@ -34,7 +34,7 @@
     detail: University of Texas at Dallas (UTD)
     i18n: company_a
   desc:
-    detail: Built product propensity models to determine the likelihood customer buying different BestBuy products and look alike models to identify people who look and act like target audiences to reach greater/new audiences Technologies":" Python, SQL, SAS, SAS Enterprise Guide, SAS Enterprise Miner
+    detail: Built product propensity models to determine the likelihood customer buying different BestBuy products and look alike models to identify people who look and act like target audiences to reach greater/new audiences
     i18n: company_a_desc
   date:
     detail: Aug 2018 - May 2020
@@ -49,7 +49,7 @@
     detail: Principal Financial Group(PFG)
     i18n: company_a
   desc:
-    detail: Built product propensity models to determine the likelihood customer buying different BestBuy products and look alike models to identify people who look and act like target audiences to reach greater/new audiences Technologies":" Python, SQL, SAS, SAS Enterprise Guide, SAS Enterprise Miner
+    detail: Built product propensity models to determine the likelihood customer buying different BestBuy products and look alike models to identify people who look and act like target audiences to reach greater/new audiences
     i18n: company_a_desc
   date:
     detail: Dec 2016 - July 2018
@@ -64,7 +64,7 @@
     detail: Tech Mahindra Ltd.
     i18n: company_a
   desc:
-    detail: Built product propensity models to determine the likelihood customer buying different BestBuy products and look alike models to identify people who look and act like target audiences to reach greater/new audiences Technologies":" Python, SQL, SAS, SAS Enterprise Guide, SAS Enterprise Miner
+    detail: Built product propensity models to determine the likelihood customer buying different BestBuy products and look alike models to identify people who look and act like target audiences to reach greater/new audiences
     i18n: company_a_desc
   date:
     detail: Sept 2013 - Nov 2016
